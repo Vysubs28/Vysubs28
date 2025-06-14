@@ -9,7 +9,10 @@ I build intelligent systems—from movie recommendation engines and facial recog
 **Certifications:** Google Data Analytics, Google Cloud AI, ZTM AI/ML & Python
 
 **Projects:**  
-- Netflix Recommendation Engine  
+- Netflix Recommendation Engine
+- Astronomical Database System
+- AI Text Detector
+- Voice Assistant   
 - Real-Time Facial Recognition  
 - Hand Tracking AI with MediaPipe  
 - SQL Movie Analytics Engine
