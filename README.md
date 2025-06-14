@@ -12,7 +12,8 @@ I build intelligent systems—from movie recommendation engines and facial recog
 - Netflix Recommendation Engine
 - Astronomical Database System
 - AI Text Detector
-- Voice Assistant   
+- Voice Assistant
+- 360 No Scope 2D Game   
 - Real-Time Facial Recognition  
 - Hand Tracking AI with MediaPipe  
 - SQL Movie Analytics Engine
