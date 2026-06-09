@@ -1,19 +1,16 @@
-Hi, I'm Vyaas R. Subramanian!
+# Hi, I'm Vyaas R. Subramanian 
 
-Aspiring AI & ML Engineer | CS Student @ Knox College | Explorer of AI, Data Science, and Software Engineering
+**AI Engineer & Researcher** | M.Eng. Engineering AI @ University of Maryland (Sep 2026) | BS Computer Science, Knox College '26
 
-I build intelligent systems—from movie recommendation engines and facial recognition to hand-tracking apps. Currently diving deeper into AI agents and reinforcement learning through CS317 and software engineering best practices via Agile in CS322.
+---
 
-**Languages/Tools:** Python, Java, SQL, Scikit-learn, OpenCV, MediaPipe, TensorFlow, GitHub
+## About Me
 
-**Certifications:** Google Data Analytics, Google Cloud AI, ZTM AI/ML & Python
+I build AI systems that are technically rigorous, production-ready, and designed to be fair.
 
-**Projects:**  
-- Netflix Recommendation Engine
-- Astronomical Database System
-- AI Text Detector
-- Voice Assistant
-- 360 No Scope 2D Game   
-- Real-Time Facial Recognition  
-- Hand Tracking AI with MediaPipe  
-- SQL Movie Analytics Engine
+My **published research** investigates racial bias in CNN-based facial expression recognition systems — using centroid distance analysis to reveal structural demographic disparities in how AI models classify emotions across different groups. This work sits at the intersection of computer vision, algorithmic fairness, and responsible AI deployment.
+
+This Fall I begin the **Master of Engineering in Engineering Artificial Intelligence** program at the University of Maryland, College Park — focusing on LLM systems engineering, generative AI, production AI deployment, and autonomous systems.
+
+I also bring international startup experience from **INCVBATE Copenhagen**, where I worked on AI venture development with European startups and corporate innovation programs.
+
